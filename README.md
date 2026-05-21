@@ -1,1 +1,1 @@
-# beerFestResources
+# Ashcott Beer Fest Resources
