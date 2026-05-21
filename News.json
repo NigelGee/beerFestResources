@@ -60,4 +60,8 @@
         "newsDate": "22/05/2026",
         "description": "This is a test post.",
     },
+     {
+        "newsDate": "23/05/2026",
+        "description": "This is a test post too.",
+    },
 ]
