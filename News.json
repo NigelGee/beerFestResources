@@ -56,8 +56,12 @@
         "newsDate": "24/03/2026",
         "description": "[Advanced tickets now on sale here](https://ashcott-beer-festival.sumupstore.com) or check the Tickets tab.",
     },
-      {
+    {
         "newsDate": "22/05/2026",
         "description": "This is a test post.",
+    },
+    {
+        "newsDate": "23/05/2026",
+        "description": "This is a test post too.",
     },
 ]
