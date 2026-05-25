@@ -1,0 +1,47 @@
+{
+    "sponsor": "P&KMeats, Street",
+    "sponsorTel": "01458 441439",
+    "items": [
+        {
+            "name": "Burger",
+            "detail": "A delicious burger in a bap with ketchup or brown sauce.(Gluten free baps available).",
+            "amount": 5,
+            "type": "G"
+        },
+        {
+            "name": "Cheese Burger",
+            "detail": "A delicious burger with cheese in a bap with ketchup or brown sauce. (Gluten free baps available).",
+            "amount": 5.5,
+            "type": "G"
+        },
+        {
+            "name": "Hot Dog",
+            "detail": "A delicious sausage in a bap with mustard, ketchup or brown sauce.",
+            "amount": 5,
+        },
+        {
+            "name": "Chips",
+            "detail": "Proper chips",
+            "amount": 2,
+            "type": "Ve G"
+        },
+        {
+            "name": "Cheesy Chips",
+            "detail": "Proper chips",
+            "amount": 2.5,
+            "type": "V G"
+        },
+        {
+            "name": "Soft Drink",
+            "detail": "A selection of soft drinks available",
+            "amount": 1,
+            "type": "V G"
+        },
+        {
+            "name": "Breakfast Bap",
+            "detail": "***ONLY AVAILABLE FOR BREAKFAST***\nChoose from Mushroom, Egg, Egg & Bacon, Egg & Sausage or Full Bap.",
+            "amount": 5,
+            "type": "V Ve G"
+        },
+    ]
+}
