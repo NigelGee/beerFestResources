@@ -1,0 +1,33 @@
+{
+    "bodyText": "Ashcott Beer Fest is run by volunteers, so we don’t publish private addresses or phone numbers.\n\nFor For all inquiries please use email below or leave a message on our Facebook pages and someone on the committee will contact you.\n\nWe also hire out our Marquees over the summer (when we aren’t using them) which also goes towards the fund raising.",
+    "emails": [
+            {
+                "description": "General Enquires",
+                "email": "ashcottbeerfest@gmail.com",
+                "subject": "General Enquires"
+            },
+            {
+                "description": "Camping Enquires",
+                "email": "ashcottbeerfestcamping@gmail.com",
+                "subject": "Camping Enquires"
+            },
+            {
+                "description": "Sponsors Enquires",
+                "email": "ashcottbeerfestsponsers@gmail.com",
+                "subject": "Sponsors Enquires",
+                "emailBody": "I would like to sponsor a (barrel of beer/cider/Entertainment/Food) for this year beer fest."
+            },
+            {
+                "description": "Volunteer Enquires",
+                "email": "ashcottbeerfest@gmail.com",
+                "subject": "Volunteer Enquires",
+                "emailBody": "I would be willing to help out with a shift in (Bar/Entrance/Food/Site) for this year beer fest."
+            },
+            {
+                "description": "Marquee Enquires",
+                "email": "ashcottbeerfest@gmail.com",
+                "subject": "Marquee Enquires",
+                "emailBody": "I would like to hire (The Blue and White/The Canvas) marquee for date of ……. Please send me a quote."
+            }
+        ]
+}
