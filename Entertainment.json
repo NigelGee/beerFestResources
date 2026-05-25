@@ -1,0 +1,93 @@
+{
+    "description": "We have a terrific line up of bands and activities throughout the weekend. We encourage new bands and also love our old favourites! There should be music for everyone to enjoy!\n\nThere are a wide range of children’s activities to keep the little festival-goers busy while adults enjoy an ale or a glass of prosecco in the sunshine.\n\nThere will be lots of activities such as races, boulder throwing, face painting and many more activities to enjoy.\n\nDressing up is encouraged for both children and adults alike!!",
+    "bandTitle": "Bands for 2025",
+    "sponsor": "[Amica Smart Homes](https://www.amicasmarthomes.com)",
+    "sponsorTel": "01935 350850",
+    "music": [
+        {
+            "day": "Thursday Night",
+            "band": [
+                {
+                    "name": "Open Mic Night",
+                    "details": "An open mic with various singers and bands. Come along and have a sing song."
+                }
+            ]
+        },
+        {
+            "day": "Friday Night",
+            "band": [
+                {
+                    "startTime": "09/07/2026 19:00",
+                    "endTime": "09/07/2026 20:00",
+                    "time": "19:00 – 20:00",
+                    "name": "Groove Jacks",
+                    "details": "A bit about the band."
+                },
+                {
+                    "startTime": "09/07/2026 20:30",
+                    "endTime": "09/07/2026 22:00",
+                    "time": "20:30 – 22:00",
+                    "name": "Audio Roulette",
+                },
+                {
+                    "startTime": "09/07/2026 22:30",
+                    "endTime": "10/07/2026 00:00",
+                    "time": "22:30 - Midnight",
+                    "name": "Kindred",
+                },
+            ]
+        },
+        {
+            "day": "Saturday Afternoon",
+            "band": [
+                {
+                    "startTime": "10/07/2026 12:30",
+                    "endTime": "10/07/2026 13:30",
+                    "time": "12:30 – 13:30",
+                    "name": "Street Sings choir"
+                },
+                {
+                    "startTime": "10/07/2026 14:00",
+                    "endTime": "10/07/2026 15:00",
+                    "time": "14:00 - 15:00",
+                    "name": "Beach’d Buoys"
+                },
+                {
+                    "startTime": "22/05/2026 15:30",
+                    "endTime": "22/05/2026 16:30",
+                    "time": "15:30 – 16:30",
+                    "name": "Follow The Dolphins"
+                },
+                {
+                    "startTime": "10/07/2026 17:00",
+                    "endTime": "10/07/2026 17:30",
+                    "time": "17:00 – 17:30",
+                    "name": "Dragon Drummers"
+                },
+            ]
+        },
+        {
+            "day": "Saturday Night",
+            "band": [
+                {
+                    "startTime": "22/05/2026 18:30",
+                    "endTime": "22/05/2026 20:00",
+                    "time": "18:30 – 20:00",
+                    "name": "Tracksband"
+                },
+                {
+                    "startTime": "10/07/2026 20:30",
+                    "endTime": "10/07/2026 22:00",
+                    "time": "20:30 – 22:00",
+                    "name": "The Jury"
+                },
+                {
+                    "startTime": "10/07/2026 22:30",
+                    "endTime": "11/07/2026 00:00",
+                    "time": "22:30 – Midnight",
+                    "name": "Rock-It Fuel"
+                },
+            ]
+        },
+    ]
+}
