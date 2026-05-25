@@ -1,0 +1,29 @@
+{
+    "mainTitle": "The Charities we support!",
+    "description": "The Ashcott Beer Fest is about the beer and having a great time.  But we do it for a serious reason - to raise money for the three main charitable concerns in the parish (see below). We also donate to others local charities too.",
+    "charities": [
+        {
+            "title": "Ashcott Primary School",
+            "detail": "Ashcott Primary school is a caring and welcoming school. It puts children at the heart of everything they do.  They have close links with our community and believe in working together to inspire children to be proud of their community and the area in which they live. The money raised is used solely for the benefit of the children currently attending the school.",
+            "url": "https://www.ashcott.somerset.sch.uk",
+            "image": "school.jpg"
+        },
+        {
+            "title": "Cheeky Chimps",
+            "detail": "Cheeky Chimps Pre-School, located on the Ashcott Primary School site, is a vital part of the care and education we offer our children.  They provide wrap-around care, various clubs, special events and most of all full pre-school care and education.  Cheeky Chimps is also a charity so our money is an important part of their income.",
+            "url": "https://www.cheekychimps.org.uk",
+            "image": "cheekyChimps.jpg"
+        },
+        {
+            "title": "Ashcott Playing Fields",
+            "detail": "Being a village on the side of a hill, a flat ground is at a premium. Ashcott is lucky to have a field that we use for football, school events and many other events, including the Beer Fest!  They have been fund raising hard for a new Pavilion which is almost finished BUT they still need funds to complete it and for the running costs of the field and new Pavilion!",
+            "url": "https://ashcottplayingfields.org",
+            "image": "playingFields.jpg"
+        },
+        {
+            "title": "Ashcott Village Hall",
+            "detail": "The Beer Fest also donates money to Ashcott Village Hall as a thank you for the on-going support we receive from these organisations during the Beer Fest.",
+            "image": "villageHall.jpg"
+        }
+    ]
+}
