@@ -1,0 +1,383 @@
+{
+    "title": "Drinks for 2025",
+    "description": "Ashcott Beer Fest has about 30 beers each year and where possible they are sourced from the South West’s microbreweries. Each year, sponsors are invited to a tasting before the beer fest opens on the Friday night. They vote (eventually…) and give us our top three beers.\n\nBut don't think the Beer Fest is not for you just because you don't drink beer!! This beerfest is different from others as we sell local cider and perries along with wine. Also on the Saturday there is Pimms and Presecco available too.  So you can still come and enjoy the festivities no matter what your normal tipple is!",
+    "categories": [
+        {
+            "title": "Beers…",
+            "items": [
+                {
+                    "id": "2501",
+                    "name": "[Badgworth IPA](https://untappd.com/b/badgworth-brewhouse-badgworth-ipa/5416133)",
+                    "abv": 4.4,
+                    "detail": "Premium Pale Ale.",
+                    "brewer": "[Badgworth Brewhouse, Somerset](https://badgworthbrewhouse.com)",
+                    "sponsor": "[Holland & Odam](https://www.hollandandodam.co.uk)",
+                    "sponsorTel": "01458 841411",
+                    "canRate": true
+                },
+                {
+                    "id": "2502",
+                    "name": "Citra Ass Down",
+                    "abv": 4.6,
+                    "detail": "Premium Pale Ale.",
+                    "brewer": "[Botley Brewery, Hampshire](https://botleybreweryltd.com)",
+                    "sponsor": "[McCarthy Marland](https://www.mccarthywaste.co.uk)",
+                    "sponsorTel": "0117 941 2555",
+                    "canRate": true
+                },
+                {
+                    "id": "2503",
+                    "name": "Crazy Peacock",
+                    "abv": 4.8,
+                    "detail": "Premium Pale Ale.",
+                    "brewer": "[Bragdy Twt Lol Brewery, Cardiff](https://twtlol.com/?doing_wp_cron=1779299788.8059740066528320312500)",
+                    "sponsor": "Pilgrims Masonic Lodge",
+                    "canRate": true
+                },
+                {
+                    "id": "2504",
+                    "name": "Mild",
+                    "abv": 3.7,
+                    "detail": "Mild.",
+                    "brewer": "[Bransombe Brewery, Somerset](https://www.branscombebrewery.co.uk)",
+                    "sponsor": "CBL",
+                    "sponsorTel": "07930 314349",
+                    "canRate": true
+                },
+                {
+                    "id": "2505",
+                    "name": "Just Like Mum",
+                    "abv": 4.9,
+                    "detail": "Extra Special Bitter.",
+                    "brewer": "[Dark Revolution Brewery, Salisbury](https://www.darkrevolution.co.uk)",
+                    "sponsor": "Burtle Beer Club (BBC)",
+                    "canRate": true
+                },
+                {
+                    "id": "2506",
+                    "name": "Alfie's Revenge",
+                    "abv": 4.5,
+                    "detail": "Strong Ale.",
+                    "brewer": "[Driftwood Spars Brewery, Cornwall](https://www.driftwoodsparsbrewery.com)",
+                    "sponsor": "Barton Inn",
+                    "canRate": true
+                },
+                {
+                    "id": "2507",
+                    "name": "Dragon's Heart",
+                    "abv": 4.7,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Fellin Foel Brewery, Wales](https://www.felinfoel.com)",
+                    "sponsor": "[Marshes Hub Tea Stop](https://marsheshubteastop.co.uk)",
+                    "sponsorTel": "07727 257789",
+                    "canRate": true
+                },
+                {
+                    "id": "2508",
+                    "name": "Magic Melody",
+                    "abv": 4.3,
+                    "detail": "Session Golden Ale.",
+                    "brewer": "[Fine Tuned Brewery, Somerset](https://www.finetunedbrewery.com)",
+                    "sponsor": "[The Levels School](https://www.thelevelsschool.co.uk)",
+                    "sponsorTel": "01458 211014",
+                    "canRate": true
+                },
+                {
+                    "id": "2509",
+                    "name": "Romsey Gold",
+                    "abv": 4.5,
+                    "detail": "Session Golden Ale.",
+                    "brewer": "[Flack Manor Brewery, Hampshire](https://flack-manor-brewery.myshopify.com/?_su_rec=6olHt_aCyCL9Ik0WT0JsXazmvMUIGTR-TR8lfYDKXlzWZiV6eYaHnkAYxx0X7ny_8stkJE8Ib00lnIKU__s0122V-ZT-ZR1ZYAWS9EXE7OGh4727AOwwY2XMsADZW_wuNJ2yJ_l24jPJ4OYecdbjxIqHNH8HNDkP8vpi28boWNKDK9LGIHm3pAE5tRx2JhWT8m6_p1oZueIfvT97yLofCvmsRMXDLrhuvJlNchquRzS31E3RNKw6KLscd4To1hGDOMWYUnzVBjDCf6usrEtnwjDTwdhaqj4&_su_rec_id=b280c828-0067-4699-9de0-8fe7f466f9e2-1779301307)",
+                    "sponsor": "[Buscott Woodworking](https://buscottwoodworking.co.uk)",
+                    "sponsorTel": "01458 210300",
+                    "canRate": true
+                },
+                {
+                    "id": "2510",
+                    "name": "Hedge Monkey",
+                    "abv": 4.6,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Glastonbury Brewery, Somerset](https://glastonburyales.com)",
+                    "sponsor": "[Ring O Bells, Moorlinch](https://ringobellsmoorlinch.co.uk)",
+                    "sponsorTel": "01458 210358",
+                    "canRate": true
+                },
+                {
+                    "id": "2511",
+                    "name": "Stormstay",
+                    "abv": 5.0,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Hanlons Brewery, Devon](https://www.hanlonsbrewery.com)",
+                    "sponsor": "[Stonehill & Tiling & Bathrooms](https://www.facebook.com/tomgrovestb/about)",
+                    "sponsorTel": "07779 787914",
+                    "canRate": true
+                },
+                {
+                    "id": "2512",
+                    "name": "Scallywag",
+                    "abv": 4.8,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Hop Union Brewery, Bristol](https://www.hopunionbrewery.co.uk)",
+                    "sponsor": "Worshipful Company of Ashcott Beer Drinkers",
+                    "canRate": true
+                },
+                {
+                    "id": "2513",
+                    "name": "Funky Monkey",
+                    "abv": 4.0,
+                    "detail": "Session Bitter.",
+                    "brewer": "[Frome Brewery, Somerset](https://fromebrewingcompany.com)",
+                    "sponsor": "[Living Homes](https://www.livinghomes.co.uk)",
+                    "sponsorTel": "01458 445555",
+                    "canRate": true
+                },
+                {
+                    "id": "2514",
+                    "name": "Bristol Bitter",
+                    "abv": 4.0,
+                    "detail": "Session Bitter.",
+                    "brewer": "[New Bristol Brewery, Bristol](https://fromebrewingcompany.com)",
+                    "sponsor": "[Event Horizon Ltd](https://www.precisionenergetics.co.uk)",
+                    "sponsorTel": "01458 210280",
+                    "canRate": true
+                },
+                {
+                    "id": "2515",
+                    "name": "Ebb Rock",
+                    "abv": 4.9,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Noss Beer Works, Devon](https://www.nossbeerworks.co.uk)",
+                    "sponsor": "[Polden Property Maintenance](https://www.poldenpropertymaintenance.co.uk)",
+                    "sponsorTel": "01458 210992",
+                    "canRate": true
+                },
+                {
+                    "id": "2516",
+                    "name": "Oak IPA",
+                    "abv": 3.4,
+                    "detail": "Session Bitter.",
+                    "brewer": "[Otter Brewery, Devon](https://otterbrewery.com)",
+                    "sponsor": "[Royal Oak Walton](https://www.royaloakwalton.com)",
+                    "sponsorTel": "01458 899833",
+                    "canRate": true
+                },
+                {
+                    "id": "2517",
+                    "name": "Windjammer",
+                    "abv": 4.3,
+                    "detail": "Brown Ale.",
+                    "brewer": "[Padstow Brewery, Cornwall](https://www.padstowbrewing.co.uk)",
+                    "sponsor": "[Jack Cave Electrical](https://www.facebook.com/JackCave)",
+                    "sponsorTel": "07921 393582",
+                    "canRate": true
+                },
+                {
+                    "id": "2518",
+                    "name": "200",
+                    "abv": 5.0,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Palmers Brewery, Dorset](https://palmersbrewery.com/cask/)",
+                    "sponsor": "[DeNovo Healthcare Ltd](http://www.denovohealthcare.com)",
+                    "sponsorTel": "01934 808416",
+                    "canRate": true
+                },
+                {
+                    "id": "2519",
+                    "name": "Crows - An - Wra",
+                    "abv": 4.3,
+                    "detail": "Session Blond Ale.",
+                    "brewer": "Penzance Brewery, Cornwall",
+                    "sponsor": "A Generous Ashcott Resident.",
+                    "canRate": true
+                },
+                {
+                    "id": "2520",
+                    "name": "B.O.B",
+                    "abv": 5.6,
+                    "detail": "Premium Golden Ale.",
+                    "brewer": "[Ralphs Ruin North, Somerset](http://www.ralphsruin.co.uk)",
+                    "sponsor": "[Somer Sets Promotions Ltd](https://www.facebook.com/people/Somer-Sets-Promotions/61556136661470/)",
+                    "sponsorTel": "07887 632318",
+                    "canRate": true
+                },
+                {
+                    "id": "2521",
+                    "name": "Bevans",
+                    "abv": 4.2,
+                    "detail": "Session Bitter.",
+                    "brewer": "[Rhymney Brewery, Wales](https://www.rhymneybrewery.com)",
+                    "sponsor": "[M Franks & Sons](https://www.mfranksandsons.co.uk)",
+                    "sponsorTel": "01458 210627",
+                    "canRate": true
+                },
+                {
+                    "id": "2522",
+                    "name": "Island Street Porter",
+                    "abv": 5.9,
+                    "detail": "Strong Porter.",
+                    "brewer": "[Salcome Brewery, Devon](https://salcombebrewery.com)",
+                    "sponsor": "[Sunlit Solar](https://sunlit-solar.co.uk)",
+                    "sponsorTel": "01458 834936",
+                    "canRate": true
+                },
+                {
+                    "id": "2523",
+                    "name": "Black & White",
+                    "abv": 4.7,
+                    "detail": "Session Stout.",
+                    "brewer": "[South Hams Brewery, Devon](https://southhamsdrinks.co.uk)",
+                    "sponsor": "Focusmont",
+                    "sponsorTel": "07753 257980",
+                    "canRate": true
+                },
+                {
+                    "id": "2524",
+                    "name": "P K 3",
+                    "abv": 5.6,
+                    "detail": "New World IPA.",
+                    "brewer": "[Stardust Brewery, Berkshire](https://stardustbrewery.co.uk)",
+                    "sponsor": "[The Roberts Group](https://srobertsandson.co.uk)",
+                    "sponsorTel": "01278 457598",
+                    "canRate": true
+                },
+                {
+                    "id": "2525",
+                    "name": "Start Point",
+                    "abv": 3.4,
+                    "detail": "Session Golden Ale.",
+                    "brewer": "[Somerskills Brewery, Devon](https://www.summerskills.co.uk)",
+                    "sponsor": "Avalon Wholesale",
+                    "sponsorTel": "0145 821050",
+                    "canRate": true
+                },
+                {
+                    "id": "2526",
+                    "name": "Moondance",
+                    "abv": 4.2,
+                    "detail": "Session Pale Ale.",
+                    "brewer": "[Tripple FFF Brewery Hampshire](https://triplefff.com)",
+                    "sponsor": "Roger Stacey Fencing",
+                    "canRate": true
+                },
+                {
+                    "id": "2527",
+                    "name": "Solstice",
+                    "abv": 4.7,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Twisted Oak Brewery, Somerset](https://www.twistedoakbrewery.co.uk)",
+                    "sponsor": "Howe Builders",
+                    "sponsorTel": "07792 574802",
+                    "canRate": true
+                },
+                {
+                    "id": "2528",
+                    "name": "Old Spot",
+                    "abv": 4.0,
+                    "detail": "Premium Bitter.",
+                    "brewer": "[Uley Brewery, Gloucestershire](https://uleybrewery.com)",
+                    "sponsor": "[Wyke Farms](https://www.wykefarms.com)",
+                    "sponsorTel": "01749 812424",
+                    "canRate": true
+                },
+                {
+                    "id": "2529",
+                    "name": "Red Ale",
+                    "abv": 4.4,
+                    "detail": "American Amber Ale.",
+                    "brewer": "[Utopian Brewery, Devon](https://www.utopianbrewing.com/home)",
+                    "sponsor": "[Brandon Tool Hire](https://brandonhirestation.com)",
+                    "sponsorTel": "01934 632621",
+                    "canRate": true
+                },
+            ]
+        },
+        {
+            "title": "Now the Ciders…",
+            "items": [
+                {
+                    "id": "2532",
+                    "name": "Bere Medium",
+                    "abv": 6.0,
+                    "detail": "Blended using over 20 different varieties of apples, pasteurised and lightly carbonated to give a refreshing medium cider bursting with fruit flavour.",
+                    "brewer": "[Bere Cider Company, Aller nr Langport](https://berecidercompany.com)",
+                    "sponsor": "[Bere Cider Company](https://berecidercompany.com)",
+                    "sponsorTel": "01458 250166",
+                    "canRate": true
+                },
+                {
+                    "id": "2530",
+                    "name": "HECKS 3 varieties Perry",
+                    "abv": 6.0,
+                    "detail": "Produced like a cider but made from pears.",
+                    "brewer": "[HECKS, Street](https://www.heckscider.com)",
+                    "canRate": true
+                },
+                {
+                    "id": "2531",
+                    "name": "HECKS Kingston Black, Port Wine of Glastonbury and Brown’s Apple",
+                    "abv": 6.5,
+                    "detail": "True Somerset Ciders and full of flavour.",
+                    "brewer": "[HECKS, Street](https://www.heckscider.com)",
+                    "canRate": true
+                },
+                {
+                    "id": "2533",
+                    "name": "Wilkins Dry, Medium and Sweet",
+                    "abv": 6.0,
+                    "detail": "Blended Sweet and Dry Ciders.",
+                    "brewer": "[Wilkins Cider, Wedmore](https://wilkinscider.com)",
+                    "canRate": true
+                },
+                {
+                    "id": "2534",
+                    "name": "Golden Harves",
+                    "abv": 4.5,
+                    "detail": "Traditional Farmhouse ‘Session’ Cider.",
+                    "brewer": "[Rich’s Cider](https://richscider.co.uk)",
+                    "canRate": true
+                },
+                {
+                    "id": "2535",
+                    "name": "Rich’s Fused Fruit Cider",
+                    "abv": 4.0,
+                    "detail": "Elderflower fused cider.",
+                    "brewer": "[Rich’s Cider](https://richscider.co.uk)",
+                    "canRate": true
+                },
+            ]
+        },
+        {
+            "title": "Pimm’s (Saturday only).",
+            "items": [
+                {
+                    "id": "2536",
+                    "name": "Pimm’s No 1",
+                    "detail": "Gin based cocktail made with lemonade, mint, orange and strawberries with cucumber garnish over ice.",
+                    "canRate": false
+                },
+            ]
+        },
+        {
+            "title": "Low and Zero Alcohol Beers and Cider",
+            "items": [
+                {
+                    "id": "2537",
+                    "name": "A selection of low and non-alcohol drinks available from the bar",
+                    "detail": "Sparkling Drink Based on De-Alcoholised Wine.",
+                    "canRate": false
+                },
+            ]
+        },
+        {
+            "title": "Other drinks",
+            "items": [
+                {
+                    "id": "2538",
+                    "name": "Red and White Wine",
+                    "detail": "A selection of Red and White Wine, plus Prosecco (**Saturday only**) available from the bar.",
+                    "canRate": false
+                },
+            ]
+        },
+    ]
+}
