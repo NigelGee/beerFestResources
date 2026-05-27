@@ -21,13 +21,13 @@
         },
         {
             "name": "Chips",
-            "detail": "Proper chips",
+            "detail": "Proper chips.",
             "amount": 2,
             "type": "Ve G"
         },
         {
             "name": "Cheesy Chips",
-            "detail": "Proper chips",
+            "detail": "Proper chips with chadder cheese.",
             "amount": 2.5,
             "type": "V G"
         },
