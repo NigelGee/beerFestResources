@@ -51,6 +51,7 @@
                 {
                     "id": "2505",
                     "name": "Just Like Mum",
+                    "award": "",
                     "abv": 4.9,
                     "detail": "Extra Special Bitter.",
                     "brewer": "[Dark Revolution Brewery, Salisbury](https://www.darkrevolution.co.uk)",
@@ -60,6 +61,7 @@
                 {
                     "id": "2506",
                     "name": "Alfie's Revenge",
+                    "award": "",
                     "abv": 4.5,
                     "detail": "Strong Ale.",
                     "brewer": "[Driftwood Spars Brewery, Cornwall](https://www.driftwoodsparsbrewery.com)",
@@ -69,6 +71,7 @@
                 {
                     "id": "2507",
                     "name": "Dragon's Heart",
+                    "award": "",
                     "abv": 4.7,
                     "detail": "Premium Bitter.",
                     "brewer": "[Fellin Foel Brewery, Wales](https://www.felinfoel.com)",
@@ -79,6 +82,7 @@
                 {
                     "id": "2508",
                     "name": "Magic Melody",
+                    "award": "",
                     "abv": 4.3,
                     "detail": "Session Golden Ale.",
                     "brewer": "[Fine Tuned Brewery, Somerset](https://www.finetunedbrewery.com)",
@@ -89,6 +93,7 @@
                 {
                     "id": "2509",
                     "name": "Romsey Gold",
+                    "award": "",
                     "abv": 4.5,
                     "detail": "Session Golden Ale.",
                     "brewer": "[Flack Manor Brewery, Hampshire](https://flack-manor-brewery.myshopify.com/?_su_rec=6olHt_aCyCL9Ik0WT0JsXazmvMUIGTR-TR8lfYDKXlzWZiV6eYaHnkAYxx0X7ny_8stkJE8Ib00lnIKU__s0122V-ZT-ZR1ZYAWS9EXE7OGh4727AOwwY2XMsADZW_wuNJ2yJ_l24jPJ4OYecdbjxIqHNH8HNDkP8vpi28boWNKDK9LGIHm3pAE5tRx2JhWT8m6_p1oZueIfvT97yLofCvmsRMXDLrhuvJlNchquRzS31E3RNKw6KLscd4To1hGDOMWYUnzVBjDCf6usrEtnwjDTwdhaqj4&_su_rec_id=b280c828-0067-4699-9de0-8fe7f466f9e2-1779301307)",
@@ -99,6 +104,7 @@
                 {
                     "id": "2510",
                     "name": "Hedge Monkey",
+                    "award": "",
                     "abv": 4.6,
                     "detail": "Premium Bitter.",
                     "brewer": "[Glastonbury Brewery, Somerset](https://glastonburyales.com)",
@@ -109,6 +115,7 @@
                 {
                     "id": "2511",
                     "name": "Stormstay",
+                    "award": "",
                     "abv": 5.0,
                     "detail": "Premium Bitter.",
                     "brewer": "[Hanlons Brewery, Devon](https://www.hanlonsbrewery.com)",
@@ -119,6 +126,7 @@
                 {
                     "id": "2512",
                     "name": "Scallywag",
+                    "award": "",
                     "abv": 4.8,
                     "detail": "Premium Bitter.",
                     "brewer": "[Hop Union Brewery, Bristol](https://www.hopunionbrewery.co.uk)",
@@ -128,6 +136,7 @@
                 {
                     "id": "2513",
                     "name": "Funky Monkey",
+                    "award": "",
                     "abv": 4.0,
                     "detail": "Session Bitter.",
                     "brewer": "[Frome Brewery, Somerset](https://fromebrewingcompany.com)",
@@ -138,6 +147,7 @@
                 {
                     "id": "2514",
                     "name": "Bristol Bitter",
+                    "award": "",
                     "abv": 4.0,
                     "detail": "Session Bitter.",
                     "brewer": "[New Bristol Brewery, Bristol](https://fromebrewingcompany.com)",
@@ -148,6 +158,7 @@
                 {
                     "id": "2515",
                     "name": "Ebb Rock",
+                    "award": "",
                     "abv": 4.9,
                     "detail": "Premium Bitter.",
                     "brewer": "[Noss Beer Works, Devon](https://www.nossbeerworks.co.uk)",
@@ -158,6 +169,7 @@
                 {
                     "id": "2516",
                     "name": "Oak IPA",
+                    "award": "",
                     "abv": 3.4,
                     "detail": "Session Bitter.",
                     "brewer": "[Otter Brewery, Devon](https://otterbrewery.com)",
@@ -168,6 +180,7 @@
                 {
                     "id": "2517",
                     "name": "Windjammer",
+                    "award": "",
                     "abv": 4.3,
                     "detail": "Brown Ale.",
                     "brewer": "[Padstow Brewery, Cornwall](https://www.padstowbrewing.co.uk)",
@@ -178,6 +191,7 @@
                 {
                     "id": "2518",
                     "name": "200",
+                    "award": "",
                     "abv": 5.0,
                     "detail": "Premium Bitter.",
                     "brewer": "[Palmers Brewery, Dorset](https://palmersbrewery.com/cask/)",
@@ -188,6 +202,7 @@
                 {
                     "id": "2519",
                     "name": "Crows - An - Wra",
+                    "award": "",
                     "abv": 4.3,
                     "detail": "Session Blond Ale.",
                     "brewer": "Penzance Brewery, Cornwall",
@@ -197,6 +212,7 @@
                 {
                     "id": "2520",
                     "name": "B.O.B",
+                    "award": "",
                     "abv": 5.6,
                     "detail": "Premium Golden Ale.",
                     "brewer": "[Ralphs Ruin North, Somerset](http://www.ralphsruin.co.uk)",
@@ -207,6 +223,7 @@
                 {
                     "id": "2521",
                     "name": "Bevans",
+                    "award": "",
                     "abv": 4.2,
                     "detail": "Session Bitter.",
                     "brewer": "[Rhymney Brewery, Wales](https://www.rhymneybrewery.com)",
@@ -217,6 +234,7 @@
                 {
                     "id": "2522",
                     "name": "Island Street Porter",
+                    "award": "",
                     "abv": 5.9,
                     "detail": "Strong Porter.",
                     "brewer": "[Salcome Brewery, Devon](https://salcombebrewery.com)",
@@ -227,6 +245,7 @@
                 {
                     "id": "2523",
                     "name": "Black & White",
+                    "award": "",
                     "abv": 4.7,
                     "detail": "Session Stout.",
                     "brewer": "[South Hams Brewery, Devon](https://southhamsdrinks.co.uk)",
@@ -237,6 +256,7 @@
                 {
                     "id": "2524",
                     "name": "P K 3",
+                    "award": "",
                     "abv": 5.6,
                     "detail": "New World IPA.",
                     "brewer": "[Stardust Brewery, Berkshire](https://stardustbrewery.co.uk)",
@@ -247,6 +267,7 @@
                 {
                     "id": "2525",
                     "name": "Start Point",
+                    "award": "",
                     "abv": 3.4,
                     "detail": "Session Golden Ale.",
                     "brewer": "[Somerskills Brewery, Devon](https://www.summerskills.co.uk)",
@@ -257,6 +278,7 @@
                 {
                     "id": "2526",
                     "name": "Moondance",
+                    "award": "",
                     "abv": 4.2,
                     "detail": "Session Pale Ale.",
                     "brewer": "[Tripple FFF Brewery Hampshire](https://triplefff.com)",
@@ -266,6 +288,7 @@
                 {
                     "id": "2527",
                     "name": "Solstice",
+                    "award": "",
                     "abv": 4.7,
                     "detail": "Premium Bitter.",
                     "brewer": "[Twisted Oak Brewery, Somerset](https://www.twistedoakbrewery.co.uk)",
@@ -276,6 +299,7 @@
                 {
                     "id": "2528",
                     "name": "Old Spot",
+                    "award": "",
                     "abv": 4.0,
                     "detail": "Premium Bitter.",
                     "brewer": "[Uley Brewery, Gloucestershire](https://uleybrewery.com)",
@@ -286,6 +310,7 @@
                 {
                     "id": "2529",
                     "name": "Red Ale",
+                    "award": "",
                     "abv": 4.4,
                     "detail": "American Amber Ale.",
                     "brewer": "[Utopian Brewery, Devon](https://www.utopianbrewing.com/home)",
