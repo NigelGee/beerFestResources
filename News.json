@@ -64,4 +64,8 @@
         "newsDate": "25/05/2026",
         "description": "Marquee hires are well on the way too.  This money is then used for the insurance and to pay for repairs to the marquee’s and to help buy equipment needed for the beer fest.",
     },
+    {
+        "newsDate": "04/06/2026",
+        "description": "This is a test post",
+    },
 ]
