@@ -9,7 +9,7 @@
             "band": [
                 {
                     "name": "Open Mic Night",
-                    "details": "An open mic with various singers and bands. Come along and have a sing song."
+                    "detail": "An open mic with various singers and bands. Come along and have a sing song."
                 }
             ]
         },
@@ -20,7 +20,7 @@
                     "startTime": "09/07/2026 19:00",
                     "endTime": "09/07/2026 20:00",
                     "name": "Groove Jacks",
-                    "details": "A bit about the band."
+                    "detail": "A bit about the band."
                 },
                 {
                     "startTime": "09/07/2026 20:30",
