@@ -6,7 +6,7 @@
     "music": [
         {
             "day": "Thursday Night",
-            "band": [
+            "bands": [
                 {
                     "name": "Open Mic Night",
                     "detail": "An open mic with various singers and bands. Come along and have a sing song."
@@ -15,7 +15,7 @@
         },
         {
             "day": "Friday Night",
-            "band": [
+            "bands": [
                 {
                     "startTime": "09/07/2026 19:00",
                     "endTime": "09/07/2026 20:00",
@@ -36,7 +36,7 @@
         },
         {
             "day": "Saturday Afternoon",
-            "band": [
+            "bands": [
                 {
                     "startTime": "10/07/2026 12:30",
                     "endTime": "10/07/2026 13:30",
@@ -61,7 +61,7 @@
         },
         {
             "day": "Saturday Night",
-            "band": [
+            "bands": [
                 {
                     "startTime": "22/05/2026 18:30",
                     "endTime": "22/05/2026 20:00",
