@@ -33,7 +33,13 @@
         },
         {
             "name": "Soft Drink",
-            "detail": "A selection of soft drinks available",
+            "detail": "Coke, Lemonade, Orange Juice",
+            "amount": 1,
+            "type": "V G"
+        },
+        {
+            "name": "Crispsk",
+            "detail": "Salt & Vinger, Cheese & Onion, Salted",
             "amount": 1,
             "type": "V G"
         },
