@@ -64,4 +64,9 @@
         "newsDate": "25/05/2026",
         "description": "Marquee hires are well on the way too.  This money is then used for the insurance and to pay for repairs to the marquee’s and to help buy equipment needed for the beer fest.",
     },
+    {
+        "newsDate": "29/06/2026",
+        "description": "New 2026 glasses have arrived! Check them out on [Instagram](https://www.instagram.com/ashcottbeerfest?igsh=ZXVsZndvZjd5OHJl) or [FaceBook](https://www.facebook.com/ashcottbeerfest/)",
+        "image": "2026Glass.jpeg"
+    },
 ]
