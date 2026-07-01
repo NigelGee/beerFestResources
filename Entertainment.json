@@ -9,7 +9,7 @@
             "bands": [
                 {
                     "name": "Open Mic Night",
-                    "detail": "An open mic with various singers and bands. Come along and have a sing song."
+                    "detail": "An open mic with various singers and bands. Come along and have a sing song. Raising money for St Margaret's Hospice and Abigail's Footsteps."
                 }
             ]
         },
@@ -17,20 +17,16 @@
             "day": "Friday Night",
             "bands": [
                 {
-                    "startTime": "09/07/2026 19:00",
-                    "endTime": "09/07/2026 20:00",
-                    "name": "Groove Jacks",
-                    "detail": "Hit songs from the 60s and 70s with timeless classics by The Beatles, The Rolling Stones, Fleetwood Mac, David Bowie, and many more.\n[More Information](https://groovejacks.com/about/)"
+                    "startTime": "09/07/2026 19:30",
+                    "endTime": "09/07/2026 21:00",
+                    "name": "Autumn Red",
+                    "detail": "[More details](https://www.facebook.com/Autumnreduk/)"
                 },
                 {
-                    "startTime": "09/07/2026 20:30",
-                    "endTime": "09/07/2026 22:00",
-                    "name": "Audio Roulette",
-                },
-                {
-                    "startTime": "09/07/2026 22:30",
-                    "endTime": "10/07/2026 00:00",
-                    "name": "Kindred",
+                    "startTime": "09/07/2026 22:00",
+                    "endTime": "09/07/2026 23:30",
+                    "name": "Rock-it Fuel",
+                    "detail": "[More details](https://www.facebook.com/rockitfuelmusic/)"
                 },
             ]
         },
@@ -40,22 +36,25 @@
                 {
                     "startTime": "10/07/2026 12:30",
                     "endTime": "10/07/2026 13:30",
-                    "name": "Street Sings choir"
+                    "name": "Street Sings choir",
+                    "detail": "[More details](https://www.facebook.com/streetsingschoir/)"
                 },
                 {
                     "startTime": "10/07/2026 14:00",
                     "endTime": "10/07/2026 15:00",
-                    "name": "Beach’d Buoys"
+                    "name": "Ashcott Panto",
+                    "detail": "[More details](https://www.facebook.com/p/Ashcott-Pantomime-Productions-100057428080171/)"
                 },
                 {
                     "startTime": "22/05/2026 15:30",
                     "endTime": "22/05/2026 16:30",
-                    "name": "Follow The Dolphins"
+                    "name": "A Bit of Bling",
                 },
                 {
                     "startTime": "10/07/2026 17:00",
                     "endTime": "10/07/2026 17:30",
-                    "name": "Dragon Drummers"
+                    "name": "Dragon Drummers",
+                    "detail": "[More details](https://www.facebook.com/DragonDrummers/)"
                 },
             ]
         },
@@ -63,19 +62,21 @@
             "day": "Saturday Night",
             "bands": [
                 {
-                    "startTime": "22/05/2026 18:30",
-                    "endTime": "22/05/2026 20:00",
-                    "name": "Tracksband"
+                    "startTime": "22/05/2026 18:15",
+                    "endTime": "22/05/2026 19:00",
+                    "name": "Andy Harvey",
                 },
                 {
-                    "startTime": "10/07/2026 20:30",
-                    "endTime": "10/07/2026 22:00",
-                    "name": "The Jury"
+                    "startTime": "10/07/2026 19:45",
+                    "endTime": "10/07/2026 21:15",
+                    "name": "St Fian",
+                    "detail": "[More details](https://www.facebook.com/p/StFian-61561012203138/)"
                 },
                 {
-                    "startTime": "10/07/2026 22:30",
-                    "endTime": "11/07/2026 00:00",
-                    "name": "Rock-It Fuel"
+                    "startTime": "10/07/2026 22:00",
+                    "endTime": "10/07/2026 23:30",
+                    "name": "The Ancestors",
+                    "detail": "[More details](https://www.facebook.com/AncestorsLive/)"
                 },
             ]
         },
