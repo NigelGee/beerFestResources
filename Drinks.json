@@ -9,10 +9,9 @@
                     "id": 2601,
                     "name": "Pilton Hopster",
                     "brewer": "[Barum Brewery, Devon](http://www.reforminn.co.uk/the-brewery.html)",
-                    "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
+                    "detail": "**Premium Pale Ale.**\\nA very hoppy pale ale, especially refreshing in the warmer months.",
                     "abv": 4.8,
-                    "sponsor": "",
-                    "sponsorTel": "",
+                    "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
                     "canRate": true
                 },
