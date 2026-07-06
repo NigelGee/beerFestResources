@@ -6,7 +6,7 @@
             "title": "Beers…",
             "items": [
                 {
-                    "id": 2601,
+                    "id": "2601",
                     "name": "Pilton Hopster",
                     "brewer": "[Barum Brewery, Devon](http://www.reforminn.co.uk/the-brewery.html)",
                     "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
