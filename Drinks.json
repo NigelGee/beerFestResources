@@ -14,7 +14,7 @@
                     "abv": 4.8,
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -26,7 +26,7 @@
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -38,7 +38,7 @@
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -50,7 +50,7 @@
                     "brewer": "[Black Bear, Somerset](https://www.blackbearbrewery.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/black-bear-brewery-goldihops/1708850",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -62,7 +62,7 @@
                     "brewer": "[Bluntrock Brewery, Cornwall](https://www.bluntrockbrewery.co.uk/collections/core-range)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bluntrock-brewery-pagan-juice/4679308",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -73,7 +73,7 @@
                     "detail": "**Premium Pale Ale.**",
                     "brewer": "[Botley, Hampshire](https://botleybreweryltd.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -85,7 +85,7 @@
                     "brewer": "[Branscombe Brewery, Devon](https://www.branscombebrewery.co.uk/our-beers)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/branscombe-vale-brewery-summa-that/81632",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -97,7 +97,7 @@
                     "brewer": "[Bristol Beer Factory, Bristol](https://www.bristolbeerfactory.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bristol-beer-factory-independence/60839",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -108,7 +108,7 @@
                     "detail": "**Session Pale Ale.**\nGolden ale.",
                     "brewer": "[Cerne Abbas, Dorset](https://www.cerneabbasbrewery.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -120,7 +120,7 @@
                     "brewer": "[Cheddar Ales, Somerset](https://www.cheddarales.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/cheddar-ales-bitter-bully/64583",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -132,7 +132,7 @@
                     "brewer": "[Country Life Brewery, Devon](https://www.countrylifebrewery.co.uk/index.html)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/country-life-brewery-country-bumpkin/26994",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -143,7 +143,7 @@
                     "detail": "**Session Golden Ale.**\nPale gold, clean fruity citrus IPA with hoppy sweet finish.",
                     "brewer": "[Dorset Brewing, Dorset](https://www.dbcales.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -155,7 +155,7 @@
                     "brewer": "[Downton Brewery, Salisbury](https://www.downtonbrewery.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/downton-brewery-bogus-buffalo/1148990",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -167,7 +167,7 @@
                     "brewer": "[Fined Tuned Brewery, Somersetl](https://finetunedbrewery.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -179,7 +179,7 @@
                     "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -191,7 +191,7 @@
                     "brewer": "[GT Ales, Devon](https://www.gtales.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/gt-ales-the-thirst-of-many/761475",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -202,7 +202,7 @@
                     "detail": "**Session Blond Ale.**\nA balanced British Pale Ale with all British hops.",
                     "brewer": "[Gwaum Valley Brewery, Pembrokeshire](https://www.gwaunvalleybrewery.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -213,7 +213,7 @@
                     "detail": "**Session Pale Ale.**\nLight spring ale,zesty and fresh with hints of pine..",
                     "brewer": "[Hattie Brown, Dorset](http://www.hattiebrownsbrewery.co.uk)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -225,7 +225,7 @@
                     "brewer": "[Hop Union, Bristol](https://www.hopunionbrewery.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/hop-union-brewery-bonville-pale/5130117",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -236,7 +236,7 @@
                     "detail": "**Session Pale Ale.**\nA hoppy pale ale, with resinous floral citrus notes of grapefruit.",
                     "brewer": "[Kettlesmith Brewing Co, Wiltshire](https://kettlesmithbrewing.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -248,7 +248,7 @@
                     "brewer": "[Moor Beer Co, Bristol](https://moorbeer.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/moor-beer-company-old-freddy-walker/20278",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -260,7 +260,7 @@
                     "brewer": "[Palmers, Dorset](https://palmersbrewery.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/palmers-brewery-hop-and-glory/6690791",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -272,7 +272,7 @@
                     "brewer": "[Quantock Brewery, Somerset](https://www.quantockbrewery.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/quantock-brewery-glimmer-of-summer/4432192",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -284,7 +284,7 @@
                     "brewer": "Ralphs Ruin Brewery, North Somerset",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/ralph-s-ruin-a-walk-on-the-mild-side/4321356",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -295,7 +295,7 @@
                     "detail": "*Pale Ale.**\nA modern English Pale Ale.",
                     "brewer": "[Stealth, Wiltshire](https://www.stealthbrew.co)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -307,7 +307,7 @@
                     "brewer": "[Somerskills Brewery, Devon](https://www.summerskills.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/summerskills-brewery-plymouth-porter/2532145",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -319,7 +319,7 @@
                     "brewer": "[Teignworthy Brewery, Devon](https://teignworthybrewery.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/teignworthy-brewery-cor-bugga/321889",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -330,7 +330,7 @@
                     "detail": "**Session Bitter.**\nBitter, Earthy, Malt, Hop, Bitterness, Fruit, English, Hopped, Classic, Pale, Coffee, Roasted, Copper, Cake.",
                     "brewer": "[Twisted Brewing Co, Wiltshire](https://www.twisted-brewing.com)",
                     "sponsor": "TBA",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -342,7 +342,7 @@
                     "brewer": "[Twisted Oak Brewery, Somerset](https://www.twistedoakbrewery.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/twisted-oak-leveret/1246699",
-                    "onsale": false,
+                    "onSale": false,
                     "canRate": false
                 },
                 {
@@ -354,7 +354,7 @@
                     "brewer": "[TWT LOL, Wales](https://twtlol.com)",
                     "sponsor": "TBA",
                     "sponsorTel": "0999 9999999",
-                    "onsale": false,
+                    "onSale": false,
                     "canRate": false
                 },
             ]
@@ -369,7 +369,7 @@
                     "detail": "Awaiting Cider List",
                     "brewer": "[Awaiting Cider List](https://www.ashcottbeerfest.org)",
                     "sponsor": "TBA",
-                    "onsale": false,
+                    "onSale": false,
                     "canRate": false
                 },
             ]
@@ -381,7 +381,7 @@
                     "id": "2536",
                     "name": "Pimm’s No 1",
                     "detail": "Gin based cocktail made with lemonade, mint, orange and strawberries with cucumber garnish over ice.",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": false
                 },
             ]
@@ -393,7 +393,7 @@
                     "id": "2537",
                     "name": "A selection of low and non-alcohol drinks available from the bar",
                     "detail": "Sparkling Drink Based on De-Alcoholised Wine.",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": false
                 },
             ]
@@ -405,7 +405,7 @@
                     "id": "2538",
                     "name": "Red and White Wine",
                     "detail": "A selection of Red and White Wine, plus Prosecco (**Saturday only**) available from the bar.",
-                    "onsale": true,
+                    "onSale": true,
                     "canRate": false
                 },
             ]
