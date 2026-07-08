@@ -370,7 +370,7 @@
                     "brewer": "[Awaiting Cider List](https://www.ashcottbeerfest.org)",
                     "sponsor": "TBA",
                     "onSale": false,
-                    "canRate": false
+                    "canRate": true
                 },
             ]
         },
