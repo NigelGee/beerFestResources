@@ -190,10 +190,10 @@
                 },
                 {
                     "id": "2618",
-                    "name": "Mustang Sally",
+                    "name": "Zephyr",
                     "award": "",
-                    "abv": 4.3,
-                    "detail": "**Session Bitter.**\nA full flavoured, well-balanced best bitter with good floral hop aroma.",
+                    "abv": 4.2,
+                    "detail": "**Session Pale Ale.**\nLight spring ale,zesty and fresh with hints of pine..",
                     "brewer": "[Hattie Brown, Dorset](http://www.hattiebrownsbrewery.co.uk)",
                     "sponsor": "TBA",
                     "canRate": true
@@ -243,6 +243,17 @@
                 },
                 {
                     "id": "2623",
+                    "name": "Glimmer of Summer",
+                    "award": "",
+                    "abv": 4.2,
+                    "detail": "**Session Pale Ale.**\nSession IPA, fruity citrus, bitter",
+                    "brewer": "[Quantock Brewery, Somerset](https://www.quantockbrewery.co.uk)",
+                    "sponsor": "TBA",
+                    "untappd": "https://untappd.com/b/quantock-brewery-glimmer-of-summer/4432192",
+                    "canRate": true
+                },
+                {
+                    "id": "2624",
                     "name": "A Walk on the Mild Side",
                     "award": "",
                     "abv": 3.5,
@@ -253,18 +264,17 @@
                     "canRate": true
                 },
                 {
-                    "id": "2624",
-                    "name": "Tiptoe",
+                    "id": "2625",
+                    "name": "Radar",
                     "award": "",
-                    "abv": 4.2,
-                    "detail": "**Session Bitter.**",
-                    "brewer": "[Stealth Brew Co, Wiltshire](https://www.stealthbrew.co)",
+                    "abv": 4.5,
+                    "detail": "*Pale Ale.**\nA modern English Pale Ale.",
+                    "brewer": "[Stealth, Wiltshire](https://www.stealthbrew.co)",
                     "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/stealth-brew-co-tiptoe/3793260",
                     "canRate": true
                 },
                 {
-                    "id": "2625",
+                    "id": "2626",
                     "name": "Plymouth Porter",
                     "award": "",
                     "abv": 5.0,
@@ -275,7 +285,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2626",
+                    "id": "2627",
                     "name": "Cor Bugga",
                     "award": "",
                     "abv": 6.2,
@@ -286,7 +296,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2627",
+                    "id": "2628",
                     "name": "Pirate",
                     "award": "",
                     "abv": 4.2,
@@ -296,7 +306,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2628",
+                    "id": "2629",
                     "name": "Leveret",
                     "award": "",
                     "abv": 4.6,
@@ -307,7 +317,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2629",
+                    "id": "2630",
                     "name": "Horny Goat Ale",
                     "award": "",
                     "abv": 4.2,
@@ -329,7 +339,7 @@
                     "detail": "Awaiting Cider List",
                     "brewer": "[Awaiting Cider List](https://www.ashcottbeerfest.org)",
                     "sponsor": "TBA",
-                    "canRate": true
+                    "canRate": false
                 },
             ]
         },
