@@ -6,18 +6,6 @@
             "title": "Beers…",
             "items": [
                 {
-                    "id": "2601",
-                    "name": "Pilton Hopster",
-                    "award": "",
-                    "brewer": "[Barum Brewery, Devon](http://www.reforminn.co.uk/the-brewery.html)",
-                    "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
-                    "abv": 4.8,
-                    "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
-                    "onSale": true,
-                    "canRate": true
-                },
-                {
                     "id": "2630",
                     "name": "Harding's Double Hopped",
                     "award": "",
@@ -27,6 +15,30 @@
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
                     "onSale": false,
+                    "canRate": true
+                },
+                {
+                    "id": "2631",
+                    "name": "Love Monkey",
+                    "award": "",
+                    "abv": 4.2,
+                    "detail": "**Session Golden Ale.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
+                    "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
+                    "sponsor": "TBA",
+                    "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
+                    "onSale": false,
+                    "canRate": true
+                },
+                {
+                    "id": "2601",
+                    "name": "Pilton Hopster",
+                    "award": "",
+                    "brewer": "[Barum Brewery, Devon](http://www.reforminn.co.uk/the-brewery.html)",
+                    "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
+                    "abv": 4.8,
+                    "sponsor": "TBA",
+                    "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -168,18 +180,6 @@
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
                     "onSale": true,
-                    "canRate": true
-                },
-                {
-                    "id": "2631",
-                    "name": "Love Monkey",
-                    "award": "",
-                    "abv": 4.2,
-                    "detail": "**Session Golden Ale.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
-                    "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
-                    "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onSale": false,
                     "canRate": true
                 },
                 {
