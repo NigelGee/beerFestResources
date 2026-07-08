@@ -18,7 +18,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2602",
+                    "id": "2630",
                     "name": "Harding's Double Hopped",
                     "award": "",
                     "abv": 4.0,
@@ -26,11 +26,11 @@
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
-                    "onSale": true,
+                    "onSale": false,
                     "canRate": true
                 },
                 {
-                    "id": "2603",
+                    "id": "2602",
                     "name": "Harding's Best Bitter",
                     "award": "",
                     "abv": 4.2,
@@ -42,7 +42,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2604",
+                    "id": "2603",
                     "name": "Goldihops",
                     "award": "",
                     "abv": 3.9,
@@ -54,7 +54,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2605",
+                    "id": "2604",
                     "name": "Pagan Juice",
                     "award": "",
                     "abv": 5,
@@ -66,7 +66,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2606",
+                    "id": "2605",
                     "name": "Citra Ass Down",
                     "award": "",
                     "abv": 4.6,
@@ -77,7 +77,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2607",
+                    "id": "2606",
                     "name": "Summa That",
                     "award": "",
                     "abv": 5,
@@ -89,7 +89,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2608",
+                    "id": "2607",
                     "name": "Independence",
                     "award": "",
                     "abv": 4.6,
@@ -101,7 +101,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2609",
+                    "id": "2608",
                     "name": "Harlequin",
                     "award": "",
                     "abv": 4.0,
@@ -112,7 +112,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2610",
+                    "id": "2609",
                     "name": "Bitter Bully",
                     "award": "",
                     "abv": 3.8,
@@ -124,7 +124,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2611",
+                    "id": "2610",
                     "name": "Country Bumpkin",
                     "award": "",
                     "abv": 6.0,
@@ -136,7 +136,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2612",
+                    "id": "2611",
                     "name": "Origin",
                     "award": "",
                     "abv": 4.3,
@@ -147,7 +147,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2613",
+                    "id": "2612",
                     "name": "Bogus Buffalo",
                     "award": "",
                     "abv": 4.6,
@@ -159,7 +159,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2614",
+                    "id": "2613",
                     "name": "Sunshine Reggae",
                     "award": "",
                     "abv": 4.2,
@@ -171,7 +171,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2615",
+                    "id": "2631",
                     "name": "Love Monkey",
                     "award": "",
                     "abv": 4.2,
@@ -179,11 +179,11 @@
                     "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onSale": true,
+                    "onSale": false,
                     "canRate": true
                 },
                 {
-                    "id": "2616",
+                    "id": "2615",
                     "name": "Thirst of Many",
                     "award": "",
                     "abv": 4.2,
@@ -195,7 +195,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2617",
+                    "id": "2616",
                     "name": "Cascade",
                     "award": "",
                     "abv": 4.3,
@@ -206,7 +206,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2618",
+                    "id": "2617",
                     "name": "Zephyr",
                     "award": "",
                     "abv": 4.2,
@@ -217,7 +217,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2619",
+                    "id": "2618",
                     "name": "Bonville Pale",
                     "award": "",
                     "abv": 4.0,
@@ -229,7 +229,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2620",
+                    "id": "2619",
                     "name": "Faultline",
                     "award": "",
                     "abv": 4.1,
@@ -240,7 +240,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2621",
+                    "id": "2620",
                     "name": "Old Fredddy Walker",
                     "award": "",
                     "abv": 7.3,
@@ -252,7 +252,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2622",
+                    "id": "2621",
                     "name": "Hop and Glory",
                     "award": "",
                     "abv": 6.0,
@@ -264,7 +264,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2623",
+                    "id": "2622",
                     "name": "Glimmer of Summer",
                     "award": "",
                     "abv": 4.2,
@@ -276,7 +276,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2624",
+                    "id": "2622",
                     "name": "A Walk on the Mild Side",
                     "award": "",
                     "abv": 3.5,
@@ -288,7 +288,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2625",
+                    "id": "2624",
                     "name": "Radar",
                     "award": "",
                     "abv": 4.5,
@@ -299,7 +299,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2626",
+                    "id": "2625",
                     "name": "Plymouth Porter",
                     "award": "",
                     "abv": 5.0,
@@ -311,7 +311,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2627",
+                    "id": "2626",
                     "name": "Cor Bugga",
                     "award": "",
                     "abv": 6.2,
@@ -323,7 +323,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2628",
+                    "id": "2627",
                     "name": "Pirate",
                     "award": "",
                     "abv": 4.2,
@@ -334,7 +334,7 @@
                     "canRate": true
                 },
                 {
-                    "id": "2629",
+                    "id": "2628",
                     "name": "Leveret",
                     "award": "",
                     "abv": 4.6,
@@ -342,11 +342,11 @@
                     "brewer": "[Twisted Oak Brewery, Somerset](https://www.twistedoakbrewery.co.uk)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/twisted-oak-leveret/1246699",
-                    "onSale": false,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
-                    "id": "2630",
+                    "id": "2629",
                     "name": "Horny Goat Ale",
                     "award": "",
                     "abv": 4.2,
@@ -354,7 +354,18 @@
                     "brewer": "[TWT LOL, Wales](https://twtlol.com)",
                     "sponsor": "TBA",
                     "sponsorTel": "0999 9999999",
-                    "onSale": false,
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2614",
+                    "name": "Best Bitter",
+                    "award": "",
+                    "abv": 4.0,
+                    "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
+                    "brewer": "[Glastonbury Brewing Co](https://glastonburyales.com)",
+                    "sponsor": "TBA",
+                    "onSale": true,
                     "canRate": true
                 },
             ]
