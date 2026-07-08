@@ -343,7 +343,7 @@
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/twisted-oak-leveret/1246699",
                     "onSale": false,
-                    "canRate": false
+                    "canRate": true
                 },
                 {
                     "id": "2630",
@@ -355,7 +355,7 @@
                     "sponsor": "TBA",
                     "sponsorTel": "0999 9999999",
                     "onSale": false,
-                    "canRate": false
+                    "canRate": true
                 },
             ]
         },
