@@ -1,5 +1,5 @@
 {
-    "title": "Provisional Drinks for 2026",
+    "title": "Drinks for 2026",
     "description": "Ashcott Beer Fest has about 30 beers each year and where possible they are sourced from the South West’s microbreweries. Each year, sponsors are invited to a tasting before the beer fest opens on the Friday night. They vote (eventually…) and give us our top three beers.\n\nBut don't think the Beer Fest is not for you just because you don't drink beer!! This beerfest is different from others as we sell local cider and perries along with wine. Also on the Saturday there is Pimms and Presecco available too.  So you can still come and enjoy the festivities no matter what your normal tipple is!",
     "categories": [
         {
@@ -7,26 +7,25 @@
             "items": [
                 {
                     "id": "2630",
-                    "name": "Harding's Double Hopped",
+                    "name": "Harding's Best Bitter",
                     "award": "",
-                    "abv": 4.0,
-                    "detail": "**Session Pale Ale.**\nLively and hop-forward, with well-rounded bitterness.",
+                    "abv": 4.2,
+                    "detail": "**Session Bitter.**\nA rich but balanced malt profile.",
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
-                    "onSale": false,
+                    "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
+                    "onSale": true,
                     "canRate": true
                 },
                 {
                     "id": "2631",
-                    "name": "Love Monkey",
+                    "name": "Best Bitter",
                     "award": "",
-                    "abv": 4.2,
-                    "detail": "**Session Golden Ale.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
-                    "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
+                    "abv": 4.0,
+                    "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
+                    "brewer": "[Glastonbury Brewing Co, Somerset](https://glastonburyales.com)",
                     "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onSale": false,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
@@ -43,13 +42,13 @@
                 },
                 {
                     "id": "2602",
-                    "name": "Harding's Best Bitter",
+                    "name": "Harding's Double Hopped",
                     "award": "",
-                    "abv": 4.2,
-                    "detail": "**Session Bitter.**\nA rich but balanced malt profile.",
+                    "abv": 4.0,
+                    "detail": "**Session Pale Ale.**\nLively and hop-forward, with well-rounded bitterness.",
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
-                    "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
+                    "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
                     "onSale": true,
                     "canRate": true
                 },
@@ -180,6 +179,18 @@
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
                     "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2614",
+                    "name": "Love Monkey",
+                    "award": "",
+                    "abv": 4.2,
+                    "detail": "**Session Golden Ale.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
+                    "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
+                    "sponsor": "TBA",
+                    "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
+                    "onSale": false,
                     "canRate": true
                 },
                 {
@@ -354,17 +365,6 @@
                     "brewer": "[TWT LOL, Wales](https://twtlol.com)",
                     "sponsor": "TBA",
                     "sponsorTel": "0999 9999999",
-                    "onSale": true,
-                    "canRate": true
-                },
-                {
-                    "id": "2614",
-                    "name": "Best Bitter",
-                    "award": "",
-                    "abv": 4.0,
-                    "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
-                    "brewer": "[Glastonbury Brewing Co, Somerset](https://glastonburyales.com)",
-                    "sponsor": "TBA",
                     "onSale": true,
                     "canRate": true
                 },
