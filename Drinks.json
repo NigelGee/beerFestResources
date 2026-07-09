@@ -6,17 +6,6 @@
             "title": "Beers…",
             "items": [
                 {
-                    "id": "2600",
-                    "name": "My favourite beer",
-                    "award": "",
-                    "brewer": "Brewery",
-                    "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
-                    "abv": 4.8,
-                    "sponsor": "TBA",
-                    "onSale": true,
-                    "canRate": true
-                },
-                {
                     "id": "2630",
                     "name": "Harding's Best Bitter",
                     "award": "",
