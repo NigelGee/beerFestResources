@@ -12,7 +12,6 @@
                     "abv": 4.2,
                     "detail": "**Session Bitter.**\nA rich but balanced malt profile.",
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
-                    "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
                     "onSale": false,
                     "canRate": true
@@ -24,7 +23,6 @@
                     "abv": 4.0,
                     "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
                     "brewer": "[Glastonbury Brewing Co, Somerset](https://glastonburyales.com)",
-                    "sponsor": "TBA",
                     "onSale": false,
                     "canRate": true
                 },
@@ -35,7 +33,8 @@
                     "brewer": "[Barum Brewery, Devon](http://www.reforminn.co.uk/the-brewery.html)",
                     "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
                     "abv": 4.8,
-                    "sponsor": "TBA",
+                    "sponsor": "[Holland & Odam](https://www.hollandandodam.co.uk/)",
+                    "sponsorTel": "01458 841411",
                     "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
                     "onSale": true,
                     "canRate": true
@@ -47,7 +46,8 @@
                     "abv": 4.0,
                     "detail": "**Session Pale Ale.**\nLively and hop-forward, with well-rounded bitterness.",
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Royal Oak Walton](http://www.royaloakwalton.com/)",
+                    "sponsorTel": "01458 899833",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
                     "onSale": true,
                     "canRate": true
@@ -59,7 +59,7 @@
                     "abv": 3.9,
                     "detail": "**Session Pale Ale.**\nFloral, Citrus, Golden, Malt, Bitterness.",
                     "brewer": "[Black Bear, Somerset](https://www.blackbearbrewery.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "Pilgrims Masonic Lodge",
                     "untappd": "https://untappd.com/b/black-bear-brewery-goldihops/1708850",
                     "onSale": true,
                     "canRate": true
@@ -71,7 +71,8 @@
                     "abv": 5,
                     "detail": "**Premium Pale Ale.**\nHoppy, Intense, Pale, Tropical, Hop, Fruit, Hazy, Soft.",
                     "brewer": "[Bluntrock Brewery, Cornwall](https://www.bluntrockbrewery.co.uk/collections/core-range)",
-                    "sponsor": "TBA",
+                    "sponsor": "[McCarthy Marland](http://www.mccarthywaste.co.uk/)",
+                    "sponsorTel": "01458 899833",
                     "untappd": "https://untappd.com/b/bluntrock-brewery-pagan-juice/4679308",
                     "onSale": true,
                     "canRate": true
@@ -83,7 +84,7 @@
                     "abv": 4.6,
                     "detail": "**Premium Pale Ale.**",
                     "brewer": "[Botley, Hampshire](https://botleybreweryltd.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "Burtle Beer Club (BBC)",
                     "onSale": true,
                     "canRate": true
                 },
@@ -94,7 +95,7 @@
                     "abv": 5,
                     "detail": "**Premium Golden Ale.**\nAwesome Strong, well balanced golden ale.",
                     "brewer": "[Branscombe Brewery, Devon](https://www.branscombebrewery.co.uk/our-beers)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Barton Inn](www.bartoninn.com)",
                     "untappd": "https://untappd.com/b/branscombe-vale-brewery-summa-that/81632",
                     "onSale": true,
                     "canRate": true
@@ -106,7 +107,8 @@
                     "abv": 4.6,
                     "detail": "**Premium Pale Ale.**\nUS Pale Ale.",
                     "brewer": "[Bristol Beer Factory, Bristol](https://www.bristolbeerfactory.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Marshes Hub Tea Stop ](http://www.marsheshubteastop.co.uk/)",
+                    "sponsorTel": "07727 257789",
                     "untappd": "https://untappd.com/b/bristol-beer-factory-independence/60839",
                     "onSale": true,
                     "canRate": true
@@ -118,7 +120,8 @@
                     "abv": 4.0,
                     "detail": "**Session Pale Ale.**\nGolden ale.",
                     "brewer": "[Cerne Abbas, Dorset](https://www.cerneabbasbrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[The Levels School](http://www.thelevelsschool.co.uk/)",
+                    "sponsorTel": "01458 211014",
                     "onSale": true,
                     "canRate": true
                 },
@@ -129,7 +132,8 @@
                     "abv": 3.8,
                     "detail": "**Session Blond Ale.**\nBitter, Light, Dry, Hops, Citrus, Hop.",
                     "brewer": "[Cheddar Ales, Somerset](https://www.cheddarales.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Buscott Woodworking](www.buscottwoodworking.co.uk)",
+                    "sponsorTel": "01458 210300",
                     "untappd": "https://untappd.com/b/cheddar-ales-bitter-bully/64583",
                     "onSale": true,
                     "canRate": true
@@ -141,7 +145,8 @@
                     "abv": 6.0,
                     "detail": "**Old Ale.**\nA darkish and slightly malty tasting old ale.",
                     "brewer": "[Country Life Brewery, Devon](https://www.countrylifebrewery.co.uk/index.html)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Woodlands Hair Designs](www.facebook.com/woodlandshairdesign)",
+                    "sponsorTel": "07376 094306",
                     "untappd": "https://untappd.com/b/country-life-brewery-country-bumpkin/26994",
                     "onSale": true,
                     "canRate": true
@@ -153,7 +158,8 @@
                     "abv": 4.3,
                     "detail": "**Session Golden Ale.**\nPale gold, clean fruity citrus IPA with hoppy sweet finish.",
                     "brewer": "[Dorset Brewing, Dorset](https://www.dbcales.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Stonehill & Tiling & Bathrooms](www.facebook.com/tomgrovestb)",
+                    "sponsorTel": "07779 787914",
                     "onSale": true,
                     "canRate": true
                 },
@@ -164,7 +170,8 @@
                     "abv": 4.6,
                     "detail": "**Premium Pale Ale.**\nAmerican Pale Ale.",
                     "brewer": "[Downton Brewery, Salisbury](https://www.downtonbrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[CRS Building Suppliers](www.crsbuildingsupplies.co.uk)",
+                    "sponsorTel": "01458 836638",
                     "untappd": "https://untappd.com/b/downton-brewery-bogus-buffalo/1148990",
                     "onSale": true,
                     "canRate": true
@@ -176,7 +183,8 @@
                     "abv": 4.2,
                     "detail": "**Session Pale Ale.**\nAn American-style pale ale, refreshing and very hoppy.",
                     "brewer": "[Fined Tuned Brewery, Somersetl](https://finetunedbrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Sunlit Solar](www.sunlit-solar.co.uk)",
+                    "sponsorTel": "01458 834 936",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
                     "onSale": true,
                     "canRate": true
@@ -188,7 +196,8 @@
                     "abv": 4.2,
                     "detail": "**Session Golden Ale.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
                     "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Ring O Bells, Moorlinch](www.ringobellsmoorlinch.co.uk)",
+                    "sponsorTel": "01458 210358",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
                     "onSale": true,
                     "canRate": true
@@ -200,7 +209,8 @@
                     "abv": 4.2,
                     "detail": "**Session Bitter.**\nLight, Refreshing, Orange, Caramel, Toffee, Hops, Bitter, Amber, Fruity, Hop.",
                     "brewer": "[GT Ales, Devon](https://www.gtales.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Living Homes](www.livinghomes.co.uk)",
+                    "sponsorTel": "01458 445555",
                     "untappd": "https://untappd.com/b/gt-ales-the-thirst-of-many/761475",
                     "onSale": true,
                     "canRate": true
@@ -212,7 +222,8 @@
                     "abv": 4.3,
                     "detail": "**Session Blond Ale.**\nA balanced British Pale Ale with all British hops.",
                     "brewer": "[Gwaum Valley Brewery, Pembrokeshire](https://www.gwaunvalleybrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "Avalon Wholesale",
+                    "sponsorTel": "0145821050",
                     "onSale": true,
                     "canRate": true
                 },
@@ -223,7 +234,8 @@
                     "abv": 4.2,
                     "detail": "**Session Pale Ale.**\nLight spring ale,zesty and fresh with hints of pine.",
                     "brewer": "[Hattie Brown, Dorset](http://www.hattiebrownsbrewery.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Jack Cave Electrical](www.facebook.com/JackCave)",
+                    "sponsorTel": "07921 393582",
                     "onSale": true,
                     "canRate": true
                 },
@@ -234,7 +246,8 @@
                     "abv": 4.0,
                     "detail": "**Session Pale Ale.**\nCrisp and refreshing easy drinking pale ale.",
                     "brewer": "[Hop Union, Bristol](https://www.hopunionbrewery.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[DeNovo Healthcare Ltd](www.denovohealthcare.com)",
+                    "sponsorTel": "01934 808416",
                     "untappd": "https://untappd.com/b/hop-union-brewery-bonville-pale/5130117",
                     "onSale": true,
                     "canRate": true
@@ -246,7 +259,7 @@
                     "abv": 4.1,
                     "detail": "**Session Pale Ale.**\nA hoppy pale ale, with resinous floral citrus notes of grapefruit.",
                     "brewer": "[Kettlesmith Brewing Co, Wiltshire](https://kettlesmithbrewing.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "A generous Ashcott resident",
                     "onSale": true,
                     "canRate": true
                 },
@@ -257,7 +270,8 @@
                     "abv": 7.3,
                     "detail": "**Strong Ale.**\nDark, Liquorice, Roasted, Malt, Fruit, Black, Treacle, Fruity, Rich.",
                     "brewer": "[Moor Beer Co, Bristol](https://moorbeer.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Event Horizon Ltd](www.precisionenergetics.co.uk)",
+                    "sponsorTel": "01458 210280",
                     "untappd": "https://untappd.com/b/moor-beer-company-old-freddy-walker/20278",
                     "onSale": true,
                     "canRate": true
@@ -269,7 +283,8 @@
                     "abv": 6.0,
                     "detail": "**Bitter.**\nExtra Special / Strong (ESB)",
                     "brewer": "[Palmers, Dorset](https://palmersbrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[M Franks & Sons](www.mfranksandsons.co.uk)",
+                    "sponsorTel": "01458 210627",
                     "untappd": "https://untappd.com/b/palmers-brewery-hop-and-glory/6690791",
                     "onSale": true,
                     "canRate": true
@@ -281,7 +296,7 @@
                     "abv": 4.2,
                     "detail": "**Session Pale Ale.**\nSession IPA, fruity citrus, bitter",
                     "brewer": "[Quantock Brewery, Somerset](https://www.quantockbrewery.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "Tessa",
                     "untappd": "https://untappd.com/b/quantock-brewery-glimmer-of-summer/4432192",
                     "onSale": true,
                     "canRate": true
@@ -293,7 +308,8 @@
                     "abv": 3.5,
                     "detail": "**Mild.**\nDark Ruby Mild.",
                     "brewer": "Ralphs Ruin Brewery, North Somerset",
-                    "sponsor": "TBA",
+                    "sponsor": "Howe Builders",
+                    "sponsorTel": "07792 574802",
                     "untappd": "https://untappd.com/b/ralph-s-ruin-a-walk-on-the-mild-side/4321356",
                     "onSale": true,
                     "canRate": true
@@ -305,7 +321,8 @@
                     "abv": 4.5,
                     "detail": "**Pale Ale.**\nA modern English Pale Ale.",
                     "brewer": "[Stealth, Wiltshire](https://www.stealthbrew.co)",
-                    "sponsor": "TBA",
+                    "sponsor": "[The Roberts Group](www.srobertsandson.co.uk)",
+                    "sponsorTel": "01278 457598",
                     "onSale": true,
                     "canRate": true
                 },
@@ -316,7 +333,8 @@
                     "abv": 5.0,
                     "detail": "**Strong Porter.**\nChocolate, Sweet, Toffee, Porter, Malty, Dark, Hopped.",
                     "brewer": "[Somerskills Brewery, Devon](https://www.summerskills.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Somer Sets Promotions Ltd](www.facebook.com)",
+                    "sponsorTel": "07887 632318",
                     "untappd": "https://untappd.com/b/summerskills-brewery-plymouth-porter/2532145",
                     "onSale": true,
                     "canRate": true
@@ -328,7 +346,7 @@
                     "abv": 6.2,
                     "detail": "**Old Ale.**\nA Warming Old Ale.",
                     "brewer": "[Teignworthy Brewery, Devon](https://teignworthybrewery.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "Roger Stacey Fencing",
                     "untappd": "https://untappd.com/b/teignworthy-brewery-cor-bugga/321889",
                     "onSale": true,
                     "canRate": true
@@ -340,7 +358,7 @@
                     "abv": 4.2,
                     "detail": "**Session Bitter.**\nBitter, Earthy, Malt, Hop, Bitterness, Fruit, English, Hopped, Classic, Pale, Coffee, Roasted, Copper, Cake.",
                     "brewer": "[Twisted Brewing Co, Wiltshire](https://www.twisted-brewing.com)",
-                    "sponsor": "TBA",
+                    "sponsor": "[Worshipful Company of Ashcott Beer Drinkers](www.websiteofflinesince2009.beer)",
                     "onSale": true,
                     "canRate": true
                 },
@@ -351,7 +369,8 @@
                     "abv": 4.6,
                     "detail": "**Premium Bitter.**\nLight, Pale, Dry, Sweet, Malt, Hop, Bitterness, Fruit.",
                     "brewer": "[Twisted Oak Brewery, Somerset](https://www.twistedoakbrewery.co.uk)",
-                    "sponsor": "TBA",
+                    "sponsor": "Focusmont",
+                    "sponsorTel": "07753 257980",
                     "untappd": "https://untappd.com/b/twisted-oak-leveret/1246699",
                     "onSale": true,
                     "canRate": true
@@ -363,8 +382,8 @@
                     "abv": 4.2,
                     "detail": "**Session Golden Ale.**\nA golden lightly hopped ale.",
                     "brewer": "[TWT LOL, Wales](https://twtlol.com)",
-                    "sponsor": "TBA",
-                    "sponsorTel": "0999 9999999",
+                    "sponsor": "G Pople & Sons",
+                    "sponsorTel": "01458 448315",
                     "onSale": true,
                     "canRate": true
                 },
@@ -375,12 +394,58 @@
             "items": [
                 {
                     "id": "2632",
-                    "name": "TBA",
-                    "abv": 0.0,
-                    "detail": "Awaiting Cider List",
-                    "brewer": "[Awaiting Cider List](https://www.ashcottbeerfest.org)",
-                    "sponsor": "TBA",
-                    "onSale": false,
+                    "name": "HECKS 3 varieties Perry",
+                    "abv": 6.0,
+                    "detail": "Produced like a cider but made from pears.",
+                    "brewer": "[HECKS Street](https://www.heckscider.com)",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2633",
+                    "name": "HECKS Kingston Black, Port Wine of Glastonbury and Brown’s Apple",
+                    "abv": 6.5,
+                    "detail": "True Somerset Ciders and full of flavour.",
+                    "brewer": "[HECKS Street](https://www.heckscider.com)",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2634",
+                    "name": "Bere Medium",
+                    "abv": 6.0,
+                    "detail": "Blended using over 20 different varieties of apples, pasteurised and lightly carbonated to give a refreshing medium cider bursting with fruit flavour.",
+                    "brewer": "[Bere Cider Company Aller nr Langport](Bere Cider Company Aller nr Langport)",
+                    "sponsor": "[Bere Cider Company](www.berecidercompany.com)",
+                    "sponsorTel": "01458 250166",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2635",
+                    "name": "Wilkins Dry, Medium and Sweet",
+                    "abv": 6.0,
+                    "detail": "Blended Sweet and Dry Cider",
+                    "brewer": "Wilkins Cider Wedmore",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2636",
+                    "name": "Golden Harvest",
+                    "abv": 4.5,
+                    "detail": "Traditional Farmhouse ‘Session’ Cider",
+                    "brewer": "[Rich’s Cider](https://richscider.co.uk)",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
+                    "id": "2637",
+                    "name": "Rich’s Fused Fruit Cider",
+                    "abv": 4.0,
+                    "detail": "Elderflower fused cider",
+                    "brewer": "[Rich’s Cider](https://richscider.co.uk)",
+                    "onSale": true,
                     "canRate": true
                 },
             ]
