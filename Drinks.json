@@ -6,6 +6,17 @@
             "title": "Beers…",
             "items": [
                 {
+                    "id": "2600",
+                    "name": "My favourite beer",
+                    "award": "",
+                    "brewer": "Brewery",
+                    "detail": "**Premium Pale Ale.**\nA very hoppy pale ale, especially refreshing in the warmer months.",
+                    "abv": 4.8,
+                    "sponsor": "TBA",
+                    "onSale": true,
+                    "canRate": true
+                },
+                {
                     "id": "2630",
                     "name": "Harding's Best Bitter",
                     "award": "",
@@ -14,7 +25,7 @@
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
-                    "onSale": true,
+                    "onSale": false,
                     "canRate": true
                 },
                 {
@@ -25,7 +36,7 @@
                     "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
                     "brewer": "[Glastonbury Brewing Co, Somerset](https://glastonburyales.com)",
                     "sponsor": "TBA",
-                    "onSale": true,
+                    "onSale": false,
                     "canRate": true
                 },
                 {
@@ -190,7 +201,7 @@
                     "brewer": "[Glastonbury Brewing Co., Somerset](https://glastonburyales.com)",
                     "sponsor": "TBA",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onSale": false,
+                    "onSale": true,
                     "canRate": true
                 },
                 {
