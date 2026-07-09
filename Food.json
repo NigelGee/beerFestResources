@@ -4,42 +4,72 @@
     "items": [
         {
             "name": "Burger",
-            "detail": "A delicious burger in a bap with ketchup or brown sauce.(Gluten free baps available).",
-            "amount": 5,
+            "detail": "A delicious burger in a bap with ketchup or brown sauce.",
+            "amount": 4.5,
+        },
+        {
+            "name": "Burger (No Bread)",
+            "detail": "A delicious burgerin a bap with mustard, ketchup or brown sauce.",
+            "amount": 3,
+        },
+        {
+            "name": "Gluten Free Burger",
+            "detail": "A delicious burger in a bap with mustard, ketchup or brown sauce.",
+            "amount": 4.5,
             "type": "G"
         },
         {
-            "name": "Cheese Burger",
-            "detail": "A delicious burger with cheese in a bap with ketchup or brown sauce. (Gluten free baps available).",
-            "amount": 5.5,
-            "type": "G"
+            "name": "Veggie Burger",
+            "detail": "A delicious burger in a bap with mustard, ketchup or brown sauce.",
+            "amount": 4.5,
+            "type": "Ve V"
         },
         {
-            "name": "Hot Dog",
-            "detail": "A delicious sausage in a bap with mustard, ketchup or brown sauce.",
-            "amount": 5,
+            "name": "Hot Dogs",
+            "detail": "A sausage in a bun with mustard, ketchup or brown sauce.",
+            "amount": 4,
+        },
+        {
+            "name": "Sausage and Chips",
+            "detail": "A sausage with proper chips.",
+            "amount": 4,
+        },
+        {
+            "name": "Sausage and Cheesy Chips",
+            "detail": "A sausage with proper chips and cheese.",
+            "amount": 4,
         },
         {
             "name": "Chips",
             "detail": "Proper chips.",
-            "amount": 2,
+            "amount": 2.5,
             "type": "Ve G"
         },
         {
             "name": "Cheesy Chips",
             "detail": "Proper chips with chadder cheese.",
-            "amount": 2.5,
+            "amount": 3,
             "type": "V G"
         },
         {
             "name": "Soft Drink",
             "detail": "Coke Cola\nLemonade\nOrange Juice",
-            "amount": 1,
+            "amount": 1.5,
         },
         {
             "name": "Crisps",
             "detail": "Salt & Vinger\nCheese & Onion\nSalted",
-            "amount": 0.5,
+            "amount": 1.5,
+        },
+        {
+            "name": "Ice-Cream",
+            "detail": "Selection of Ice Cream",
+            "amount": 5,
+        },
+        {
+            "name": "Pom Bears",
+            "detail": "Chedder",
+            "amount": 1,
         },
         {
             "name": "Breakfast Bap",
