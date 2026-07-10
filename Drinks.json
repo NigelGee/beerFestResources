@@ -291,13 +291,13 @@
                 },
                 {
                     "id": "2622",
-                    "name": "Glimmer of Summer",
+                    "name": "Dolci & Karmana",
                     "award": "",
                     "abv": 4.2,
-                    "detail": "**Session Pale Ale.**\nSession IPA, fruity citrus, bitter",
+                    "detail": "**Extra Pale Ale.**\nPouring pale and bright, this extra pale ale delivers lush notes of peach rings, caramelised pineapple and tropical cocktail fruits, balanced by smooth, creamy undertones and a refreshingly crisp finish.",
                     "brewer": "[Quantock Brewery, Somerset](https://www.quantockbrewery.co.uk)",
                     "sponsor": "Tessa",
-                    "untappd": "https://untappd.com/b/quantock-brewery-glimmer-of-summer/4432192",
+                    "untappd": "https://untappd.com/b/quantock-brewery-dolci-and-karmana/6755901",
                     "onSale": true,
                     "canRate": true
                 },
@@ -457,6 +457,8 @@
                     "id": "2538",
                     "name": "Pimm’s No 1",
                     "detail": "Gin based cocktail made with lemonade, mint, orange and strawberries with cucumber garnish over ice.",
+                    "sponsor": "[Buscott Woodworking](https://buscottwoodworking.co.uk)",
+                    "sponsorTel": "01458 210300",
                     "onSale": true,
                     "canRate": false
                 },
