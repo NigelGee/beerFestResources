@@ -72,10 +72,27 @@
             "amount": 1,
         },
         {
-            "name": "Breakfast Bap",
-            "detail": "***ONLY AVAILABLE FOR BREAKFAST.***\nChoose from Mushroom, Egg, Egg & Bacon, Egg & Sausage or Full Bap.",
+            "name": "Breakfast Bap (inc a hot drink)",
+            "detail": "***ONLY AVAILABLE FOR BREAKFAST.***\n(Bacon, Sausage, Egg, Mushrooms, Hs brown)\n 1 or 2 items.",
+            "amount": 4,
+            "type": "V Ve G"
+        },
+        {
+            "name": "Breakfast Bap (inc a hot drink)",
+            "detail": "***ONLY AVAILABLE FOR BREAKFAST.***\n(Bacon, Sausage, Egg, Mushrooms, Hs brown)\n 3 or 4 items.",
             "amount": 5,
             "type": "V Ve G"
+        },
+        {
+            "name": "Breakfast Bap (inc a hot drink)",
+            "detail": "***ONLY AVAILABLE FOR BREAKFAST.***\n(Bacon, Sausage, Egg, Mushrooms, Hs brown)\n The Works.",
+            "amount": 6,
+            "type": "V Ve G"
+        },
+        {
+            "name": "Posh Coffee",
+            "detail": "***ONLY AVAILABLE FOR BREAKFAST.***\nA proper coffee.",
+            "amount": 2,
         },
     ]
 }
