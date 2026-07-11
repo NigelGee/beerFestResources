@@ -14,6 +14,7 @@
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
                     "onSale": false,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -24,6 +25,7 @@
                     "detail": "**Session Bitter.**\nFruity, Refreshing, Golden, Zesty, Malts, Hops.",
                     "brewer": "[Glastonbury Brewing Co, Somerset](https://glastonburyales.com)",
                     "onSale": false,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -37,6 +39,7 @@
                     "sponsorTel": "01458 841411",
                     "untappd": "https://untappd.com/b/barum-pilton-hopster/3002551",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -50,6 +53,7 @@
                     "sponsorTel": "01458 899833",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-hardings-double-hopped/6366661",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -62,6 +66,7 @@
                     "sponsor": "Pilgrims Masonic Lodge",
                     "untappd": "https://untappd.com/b/black-bear-brewery-goldihops/1708850",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -75,6 +80,7 @@
                     "sponsorTel": "01458 899833",
                     "untappd": "https://untappd.com/b/bluntrock-brewery-pagan-juice/4679308",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -86,6 +92,7 @@
                     "brewer": "[Botley, Hampshire](https://botleybreweryltd.com)",
                     "sponsor": "Burtle Beer Club (BBC)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -98,6 +105,7 @@
                     "sponsor": "[Barton Inn](https://www.bartoninn.com)",
                     "untappd": "https://untappd.com/b/branscombe-vale-brewery-summa-that/81632",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -111,6 +119,7 @@
                     "sponsorTel": "07727 257789",
                     "untappd": "https://untappd.com/b/bristol-beer-factory-independence/60839",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -123,6 +132,7 @@
                     "sponsor": "[The Levels School](http://www.thelevelsschool.co.uk/)",
                     "sponsorTel": "01458 211014",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -136,6 +146,7 @@
                     "sponsorTel": "01458 210300",
                     "untappd": "https://untappd.com/b/cheddar-ales-bitter-bully/64583",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -149,6 +160,7 @@
                     "sponsorTel": "07376 094306",
                     "untappd": "https://untappd.com/b/country-life-brewery-country-bumpkin/26994",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -161,6 +173,7 @@
                     "sponsor": "[Stonehill & Tiling & Bathrooms](www.facebook.com/tomgrovestb)",
                     "sponsorTel": "07779 787914",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -174,6 +187,7 @@
                     "sponsorTel": "01458 836638",
                     "untappd": "https://untappd.com/b/downton-brewery-bogus-buffalo/1148990",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -187,6 +201,7 @@
                     "sponsorTel": "01458 834 936",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
                     "onSale": false,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -200,6 +215,7 @@
                     "sponsorTel": "01458 210358",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
                     "onSale": false,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -213,6 +229,7 @@
                     "sponsorTel": "01458 445555",
                     "untappd": "https://untappd.com/b/gt-ales-the-thirst-of-many/761475",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -225,6 +242,7 @@
                     "sponsor": "Avalon Wholesale",
                     "sponsorTel": "0145821050",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -237,6 +255,7 @@
                     "sponsor": "[Jack Cave Electrical](www.facebook.com/JackCave)",
                     "sponsorTel": "07921 393582",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -250,6 +269,7 @@
                     "sponsorTel": "01934 808416",
                     "untappd": "https://untappd.com/b/hop-union-brewery-bonville-pale/5130117",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -261,6 +281,7 @@
                     "brewer": "[Kettlesmith Brewing Co, Wiltshire](https://kettlesmithbrewing.com)",
                     "sponsor": "A generous Ashcott resident",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -274,6 +295,7 @@
                     "sponsorTel": "01458 210280",
                     "untappd": "https://untappd.com/b/moor-beer-company-old-freddy-walker/20278",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -287,6 +309,7 @@
                     "sponsorTel": "01458 210627",
                     "untappd": "https://untappd.com/b/palmers-brewery-hop-and-glory/6690791",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -299,6 +322,7 @@
                     "sponsor": "Tessa",
                     "untappd": "https://untappd.com/b/quantock-brewery-dolci-and-karmana/6755901",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -312,6 +336,7 @@
                     "sponsorTel": "07792 574802",
                     "untappd": "https://untappd.com/b/ralph-s-ruin-a-walk-on-the-mild-side/4321356",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -324,6 +349,7 @@
                     "sponsor": "[The Roberts Group](www.srobertsandson.co.uk)",
                     "sponsorTel": "01278 457598",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -337,6 +363,7 @@
                     "sponsorTel": "07887 632318",
                     "untappd": "https://untappd.com/b/summerskills-brewery-plymouth-porter/2532145",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -349,6 +376,7 @@
                     "sponsor": "Roger Stacey Fencing",
                     "untappd": "https://untappd.com/b/teignworthy-brewery-cor-bugga/321889",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -360,6 +388,7 @@
                     "brewer": "[Twisted Brewing Co, Wiltshire](https://www.twisted-brewing.com)",
                     "sponsor": "[Worshipful Company of Ashcott Beer Drinkers](www.websiteofflinesince2009.beer)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -373,6 +402,7 @@
                     "sponsorTel": "07753 257980",
                     "untappd": "https://untappd.com/b/twisted-oak-leveret/1246699",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -385,6 +415,7 @@
                     "sponsor": "G Pople & Sons",
                     "sponsorTel": "01458 448315",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
             ]
@@ -399,6 +430,7 @@
                     "detail": "Produced like a cider but made from pears.",
                     "brewer": "[HECKS Street](https://www.heckscider.com)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -408,6 +440,7 @@
                     "detail": "True Somerset Ciders and full of flavour.",
                     "brewer": "[HECKS Street](https://www.heckscider.com)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -419,6 +452,7 @@
                     "sponsor": "[Bere Cider Company](https://www.berecidercompany.com)",
                     "sponsorTel": "01458 250166",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -428,6 +462,7 @@
                     "detail": "Blended Sweet and Dry Cider",
                     "brewer": "Wilkins Cider Wedmore",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -437,6 +472,7 @@
                     "detail": "Traditional Farmhouse ‘Session’ Cider",
                     "brewer": "[Rich’s Cider](https://richscider.co.uk)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -446,6 +482,7 @@
                     "detail": "Elderflower fused cider",
                     "brewer": "[Rich’s Cider](https://richscider.co.uk)",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": true
                 },
             ]
@@ -460,6 +497,7 @@
                     "sponsor": "[Buscott Woodworking](https://buscottwoodworking.co.uk)",
                     "sponsorTel": "01458 210300",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": false
                 },
             ]
@@ -472,6 +510,7 @@
                     "name": "A selection of low and non-alcohol drinks available from the bar",
                     "detail": "Sparkling Drink Based on De-Alcoholised Wine.",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": false
                 },
             ]
@@ -484,6 +523,7 @@
                     "name": "Red and White Wine",
                     "detail": "A selection of Red and White Wine, plus Prosecco (**Saturday only**) available from the bar.",
                     "onSale": true,
+                    "soldOut": false,
                     "canRate": false
                 },
             ]
