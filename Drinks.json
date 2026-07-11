@@ -200,8 +200,8 @@
                     "sponsor": "[Sunlit Solar](https://www.sunlit-solar.co.uk)",
                     "sponsorTel": "01458 834 936",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
-                    "onSale": false,
-                    "soldOut": false,
+                    "onSale": true,
+                    "soldOut": true,
                     "canRate": true
                 },
                 {
@@ -214,8 +214,8 @@
                     "sponsor": "[Ring O Bells, Moorlinch](https://www.ringobellsmoorlinch.co.uk)",
                     "sponsorTel": "01458 210358",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
-                    "onSale": false,
-                    "soldOut": false,
+                    "onSale": true,
+                    "soldOut": true,
                     "canRate": true
                 },
                 {
