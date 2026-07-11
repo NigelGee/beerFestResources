@@ -173,7 +173,7 @@
                     "sponsor": "[Stonehill & Tiling & Bathrooms](www.facebook.com/tomgrovestb)",
                     "sponsorTel": "07779 787914",
                     "onSale": true,
-                    "soldOut": false,
+                    "soldOut": true,
                     "canRate": true
                 },
                 {
