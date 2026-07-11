@@ -13,7 +13,7 @@
                     "detail": "**Session Bitter.**\nA rich but balanced malt profile.",
                     "brewer": "[Bason Bridge, Somerset](https://www.basonbridgebrewery.co.uk/our-products-1)",
                     "untappd": "https://untappd.com/b/bason-bridge-brewing-co-harding-s-best-bitter/6433456",
-                    "onSale": false,
+                    "onSale": true,
                     "soldOut": false,
                     "canRate": true
                 },
@@ -201,7 +201,7 @@
                     "sponsorTel": "01458 834 936",
                     "untappd": "https://untappd.com/b/fine-tuned-brewery-sunshine-reggae/1123534",
                     "onSale": true,
-                    "soldOut": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
@@ -215,7 +215,7 @@
                     "sponsorTel": "01458 210358",
                     "untappd": "https://untappd.com/b/glastonbury-brewing-co-love-monkey/143698",
                     "onSale": true,
-                    "soldOut": true,
+                    "soldOut": false,
                     "canRate": true
                 },
                 {
